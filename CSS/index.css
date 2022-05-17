@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Water+Brush&display=swap');
+.logo{
+
+}
+.tangier-logo{
+
+}
+.navbar {
+  overflow: hidden;
+  background-color: white;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+width: 100%;
+padding: 3% 0% 3% 0%;
+}
+.navbar li{
+  display: inline;
+}.navbar ul{
+list-style: none;
+margin-left: 70%;
+margin-top: -2%;
+}
+.navbar a{
+  margin-left: 6%;
+  color: black;
+  text-decoration: none;
+  
+}
+.bold{
+  font-size: 10px;
+}
+.middle-image{
+  background-image: url(/IMAGES/topsect\ pic.jpg);
+  background-repeat: no-repeat;
+  background-position: 100%;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.juicingtext1{
+  margin-left: 65%;
+  margin-top: -30%;
+}
+.juicingtext2{
+  margin-top: 40%;
+}
+.image2{
+  margin-top: 20%;
+  width: 250%;
+  margin-left: 50%;
+}
+.juicingtext2{
+  margin-top: -45%;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-top: 13%;
+}
+h1{
+color: white;
+font-size: 50px;
+font-weight: bold;
+font-family: 'Permanent Marker', cursive;
+}
+.p{
+font-size: 25px;
+color: white;
+margin-left: 22%;
+margin-top: -5%;
+font-family: 'Permanent Marker', cursive;
+}
+.btn{
+  margin-left: 30%;
+  padding: 2% 20% 2% 20%;
+  background-color: black;
+  border: none;
+  border-radius: 6px;
+}
+.btn a{
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: 'Permanent Marker', cursive;
+}
+.juice1{
+  margin-top: 50%;
+}
+.juice2{
+  margin-left: 50%;
+  margin-top: -37%;
+
+}
+.juices{
+  width: 100%;
+}
+.heading-1{
+margin-left: 40%;
+margin-top: -15%;
+}
+.heading-2{
+  margin-left: 40%;
+  margin-top: -15%;
+}
+.heading-3{
+  margin-left: 40%;
+  margin-top: -15%;
+}
+.img0{
+  margin-top: 15%;
+}
+.bottom-pic-mid{
+  position: absolute;
+  top: 750%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+.btm{
+  margin-top: 15%;
+}
+
+.choose{
+  color: white;
+  font-size: 200%;
+  font-weight: bolder;
+  margin-top: 100%;
+}
+.bottom-button{
+  padding: 2% 20% 2% 20%;
+  background-color: black;
+  margin-left: 25%;
+  border-radius: 6px;
+  border: none;
+  margin-top: 10%;
+}
+.bottom-button a{
+  color: white;
+  font-size: 150%;
+  text-decoration: none;
+}
+.icons{
+  display: flex;
+  
+}
+/* .icons i{
+  margin-left: 50%;
+  width: 5%;
+
+}
+.footer{
+  display: flex;
+  padding: 10%;
+}
+.footer footer{
+  margin-left: 20%;
+}
+.powered{
+  margin-top: 70%;
+  
+}
+.foot{
+  margin-left: 10%;
+} */
+.footer{
+  display: flex;
+  padding: 5%;
+
+}
+.sub2{
+  font-size: 150%;
+}
+.footer footer{
+  margin-left: 10%;
+}
+input{
+  width: 80%;
+  height: 40%;
+  padding: 5%;
+  border-radius: 6px;
+}
+.sub{
+  font-size: 150%;
+  margin-top: 25%;
+}
+.btn3{
+  margin-top: 15%;
+  background-color: greenyellow;
+  padding: 6%;
+  width: 60%;
+  border: none;
+  border-radius: 6px;
+  
+}
+.powered{
+  margin-top: 70%;
+  font-size: 150%;
+}
+.icons i{
+  margin-left: 20%;
+  width: 5%;
+
+}
